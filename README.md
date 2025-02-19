@@ -9,12 +9,14 @@ Use at your own risk
 This Chrome extension allows you to use shortcuts in your Google searches that get automatically replaced with predefined values.
 
 ## Current Shortcuts
-"""
+
+```
+
 `rr -> site:reddit.com
 
 `hn -> site:news.ycombinator.com
 
-"""
+```
 
 ## Installation
 1. Download or clone this repository
