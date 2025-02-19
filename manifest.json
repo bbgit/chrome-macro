@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Search Shortcuts",
+  "version": "1.0",
+  "description": "Replace @shortcuts in Chrome omnibox searches",
+  "permissions": [
+    "tabs",
+    "search"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
+
